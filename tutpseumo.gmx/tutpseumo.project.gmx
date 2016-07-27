@@ -9,6 +9,7 @@
     <sprite>sprites\spr_hero</sprite>
     <sprite>sprites\spr_tire</sprite>
     <sprite>sprites\spr_stage</sprite>
+    <sprite>sprites\spr_lightball</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_mainbg</background>
@@ -19,6 +20,7 @@
     <object>objects\obj_tire</object>
     <object>objects\obj_stage</object>
     <object>objects\obj_collision_parent</object>
+    <object>objects\obj_lightball</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main</room>
